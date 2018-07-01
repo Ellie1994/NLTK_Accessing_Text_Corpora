@@ -8,7 +8,7 @@ file_ids = nltk.corpus.gutenberg.fileids()
 
 print(file_ids)
 
-print()# prints out a blank raw
+print()# prints out a blank line
 ##############################################
 
 hamlet = nltk.corpus.gutenberg.words('shakespeare-hamlet.txt')
