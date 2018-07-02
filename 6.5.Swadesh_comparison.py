@@ -1,4 +1,4 @@
-# It is also useful to knoe how we can compare words in various languages.
+# It is also useful to know how we can compare words in various languages.
 
 from nltk.corpus import swadesh
 
